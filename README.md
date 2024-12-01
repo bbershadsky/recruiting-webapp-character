@@ -1,5 +1,7 @@
 # recruiting-webapp-character
-React coding test
+
+Web app character sheet for tabletop RPG game
+![b](b.png)
 
 # Create a repository from this template
 - Click on `Use this template` dropdown on this repo page.
@@ -18,6 +20,13 @@ npm i
 - Run the following command to start web app
 ```
 npm start
+```
+
+- Run the server to allow saving/loading
+
+```bash
+cd server
+node server.js
 ```
 
 # Typescript
